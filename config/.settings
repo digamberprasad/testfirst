@@ -1,0 +1,16 @@
+{
+    "projectName": "BE - CI Test",
+    "username": "digamber.prasad@makepositive.com.be.dev",
+    "id": "9c65e290-3ebe-11e6-af80-0704ffc637ac",
+    "namespace": "",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "/Users/digamberprasad/Documents/sfdcworkspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
